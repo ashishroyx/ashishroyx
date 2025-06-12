@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Roy</h1>
 <h3 align="center">I'm a Full Stack Developer with a strong focus on frontend development. I love building clean, responsive, and user-friendly interfaces using modern web technologies. While I'm comfortable working across the stack, I find the most excitement in crafting smooth and engaging user experiences.</h3>
 <p align="center">
-  <img src="https://media.tenor.com/ZWc0XWd3U0MAAAAC/deku-java-programing-cry-mochiatun.gif" width="70%" alt="Deku programming GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
 </p>
+
+
+
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishroyx&label=Profile%20views&color=0e75b6&style=flat" alt="ashishroyx" /> </p>
